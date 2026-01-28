@@ -2,3 +2,6 @@ helllo this my first file.
 tarar new change 
 i want to become S/W Engineer so this is my goale.
 this is my lageacy not your.
+clear
+i want to chsangre this file to remote repo 
+so this is my experimental line 
